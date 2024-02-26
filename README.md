@@ -79,3 +79,9 @@ Address of Receiver: 0x027ff07E2b804a35E5774059a3187c8893A6976B
 ```
 
 You can copy this repo and check how it works. Thanks a lot for your attention!
+
+
+
+![1](https://github.com/thgank/as2-blockhain/assets/122772347/4a4e230a-c387-422c-8d94-cdf0a060d9da)
+![2](https://github.com/thgank/as2-blockhain/assets/122772347/cd9d1c10-88a2-4dbf-b783-f6f62a4cd6ee)
+![3](https://github.com/thgank/as2-blockhain/assets/122772347/7c689691-b35c-4cf8-8070-e8146106af1f)
